@@ -18,17 +18,17 @@
 
 [Black Box test design techniques Pt.2](Lesson%2011%20Black%20Box%20test%20design%20techniques%20practice.%20Pt.2/L11_Homework_CintiaDomingos.docx)
 
-[Estimation. Creating test documentation](Lesson%2012%20Estimation.%20Practice%20creating%20test%20documentation/L12_Homework_CintiaDomingos.docx)
-[Estimation. Creating test documentation](Lesson%2012%20Estimation.%20Practice%20creating%20test%20documentation/L12_Homework_Strategy_CintiaDomingos.docx)
+[Estimation. Creating test documentation<br/>](Lesson%2012%20Estimation.%20Practice%20creating%20test%20documentation/L12_Homework_CintiaDomingos.docx)
+[Estimation. Creating test documentation - Test strategy](Lesson%2012%20Estimation.%20Practice%20creating%20test%20documentation/L12_Homework_Strategy_CintiaDomingos.docx)
 
-[Web basics (HTML, CSS). Character Encoding](Lesson%2014%20Web%20basics%20(HTML,%20CSS).%20Character%20Encoding/L14_Homework_CintiaDomingos.docx)
+[Web basics (HTML, CSS). Character Encoding<br/>](Lesson%2014%20Web%20basics%20(HTML,%20CSS).%20Character%20Encoding/L14_Homework_CintiaDomingos.docx)
 [Web basics (HTML, CSS). Character Encoding - website](Lesson%2014%20Web%20basics%20(HTML,%20CSS).%20Character%20Encoding/Homework_site)
 
 [Testing user interfaces (GUI) and web applications](Lesson%2015%20Testing%20user%20interfaces%20(GUI)%20and%20web%20applications/L15_Homework_CintiaDomingos.docx)
 
 [Testing mobile apps](Lesson%2016%20Basics%20of%20testing%20mobile%20apps/L16_Homework_CintiaDomingos.docx)
 
-[API Testing. JSON. REST](Lesson%2017%20API%20Testing.%20JSON.%20REST/L17_Homework_CintiaDomingos.docx)
+[API Testing. JSON. REST<br/>](Lesson%2017%20API%20Testing.%20JSON.%20REST/L17_Homework_CintiaDomingos.docx)
 [API Testing. JSON. REST - Postman files](Lesson%2017%20API%20Testing.%20JSON.%20REST/L17_Homework_CintiaDomingos.rar)
 
 [API testing with Postman](Lesson%2018%20API%20testing%20with%20Postman/L18_Homework_CintiaDomingos.rar)
@@ -37,13 +37,13 @@
 
 [Git and working with command line](Lesson%2020%20Git%20and%20working%20with%20command%20line/L20_Homework_CintiaDomingos.docx)
 
-[Relational databases. SQL query language. SELECT operator](Lesson%2021%20Relational%20databases.%20SQL%20query%20language.%20SELECT%20operator%2021022024/L21_Homework_CintiaDomingos.docx)
+[Relational databases. SQL query language. SELECT operator<br/>](Lesson%2021%20Relational%20databases.%20SQL%20query%20language.%20SELECT%20operator%2021022024/L21_Homework_CintiaDomingos.docx)
 [Relational databases. SQL query language - SQL files](Lesson%2021%20Relational%20databases.%20SQL%20query%20language.%20SELECT%20operator%2021022024/L21_Homework_CintiaDomingos_SQL.rar)
 
-[Comparison predicates, aggregate functions in SQL](Lesson%2022%20Comparison%20predicates,%20aggregate%20functions%20in%20SQL%2026022024/L22_Homework_CintiaDomingos.docx)
+[Comparison predicates, aggregate functions in SQL<br/>](Lesson%2022%20Comparison%20predicates,%20aggregate%20functions%20in%20SQL%2026022024/L22_Homework_CintiaDomingos.docx)
 [Comparison predicates, aggregate functions in SQL - SQL files](Lesson%2022%20Comparison%20predicates,%20aggregate%20functions%20in%20SQL%2026022024/L22_Homework_CintiaDomingos.rar)
 
-[Join operations and nested requests](Lesson%2023%20Join%20operations%20and%20nested%20requests/L23_Homework_CintiaDomingos.docx)
+[Join operations and nested requests<br/>](Lesson%2023%20Join%20operations%20and%20nested%20requests/L23_Homework_CintiaDomingos.docx)
 [Join operations and nested requests](Lesson%2023%20Join%20operations%20and%20nested%20requests/L23_Homework_CintiaDomingos_v2.rar)
 
 
